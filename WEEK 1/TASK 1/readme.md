@@ -38,9 +38,15 @@ This repository contains the exploratory data analysis (EDA) of the Titanic data
 git clone https://github.com/SabeehUrRehmanKhan/Internship-tasks
 cd Internship-tasks
 cd "WEEK 1/TASK 1"
+
+## 📁 Download only the `TASK 1` folder
+
+You can browse or download only this folder:
+👉 [View Folder on GitHub](https://github.com/SabeehUrRehmanKhan/Internship-tasks/tree/main/WEEK%201/TASK%201)
+
 ```
 
 2. **Manage Resources**
 - Setup a python virtual environment (optinal).
 - Install required libraries.
-- Run the task 
+- Run the task. 
