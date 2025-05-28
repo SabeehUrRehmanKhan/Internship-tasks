@@ -32,7 +32,7 @@ git clone https://github.com/SabeehUrRehmanKhan/Internship-tasks
 cd Internship-tasks
 cd "WEEK 1/TASK 2"
 
-## 📁 Download only the `TASK 1` folder
+## 📁 Download only the `TASK 2` folder
 
 You can browse or download only this folder:
 👉 [View Folder on GitHub](https://github.com/SabeehUrRehmanKhan/Internship-tasks/tree/main/WEEK%201/TASK%202)
